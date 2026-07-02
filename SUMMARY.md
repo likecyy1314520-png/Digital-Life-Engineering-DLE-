@@ -1,5 +1,5 @@
-# Manifest
+# Repository Navigation
 
-.rip 目录的清单文档。
+仓库导航指南。
 
 > 此文件为占位符，待后续填充。

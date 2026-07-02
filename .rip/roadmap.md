@@ -1,5 +1,5 @@
-# 路线图
+# Roadmap Reference
 
-.rip 目录中的路线图文件。
+引用 → ROADMAP.md
 
 > 此文件为占位符，待后续填充。

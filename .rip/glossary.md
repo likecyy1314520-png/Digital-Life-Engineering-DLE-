@@ -1,5 +1,5 @@
-# 词汇表
+# Glossary Reference
 
-.rip 目录中的词汇表文件。
+引用 → foundation/GLOSSARY.md
 
 > 此文件为占位符，待后续填充。

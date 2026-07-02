@@ -1,4 +1,4 @@
-# 规范
+# Specifications
 
 技术规范和标准文档。
 

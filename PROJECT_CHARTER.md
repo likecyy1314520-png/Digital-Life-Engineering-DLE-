@@ -1,4 +1,4 @@
-# 项目章程
+# Project Charter
 
 DLE 项目的正式章程文档。
 

@@ -1,5 +1,5 @@
-# 宪法
+# Constitution Reference
 
-.rip 目录中的宪法文件。
+引用 → foundation/DLE-000-The-Constitution.md
 
 > 此文件为占位符，待后续填充。

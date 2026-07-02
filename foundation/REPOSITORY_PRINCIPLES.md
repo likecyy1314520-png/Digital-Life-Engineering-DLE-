@@ -1,4 +1,4 @@
-# 仓库原则
+# Repository Principles
 
 DLE 项目仓库的组织原则和管理规则。
 

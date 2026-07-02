@@ -1,4 +1,4 @@
-# 工程哲学
+# Engineering Philosophy
 
 DLE 项目的工程设计哲学和核心原则。
 

@@ -1,4 +1,4 @@
-# 文档层级
+# Document Hierarchy
 
 DLE 项目文档的层级结构和优先级体系。
 
